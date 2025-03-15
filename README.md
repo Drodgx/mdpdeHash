@@ -1,2 +1,2 @@
-# myprivatepasswords
+# passwords
 my passwords
